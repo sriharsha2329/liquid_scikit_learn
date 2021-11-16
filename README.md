@@ -15,16 +15,19 @@ I will make efforts to extend this library for unsupervised learning also. Curre
 To use this librabry for now, git clone the librarby and give path to the librarby.
 
 To use standard logistic regression
-'''python
+```python
 from liquid_scikit_learn.liquid_logistic_regression import logistic_regression
-'''
+```
 
 To use liquid logistic regression
+```python
 from liquid_scikit_learn.liquid_logistic_regression import liquid_logistic_regression
+```
 
 To get model expiration details at a feature level
+```python
 from liquid_scikit_learn.liquid_logistic_regression import model_failure
-
+```
 
 
 
