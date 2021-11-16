@@ -15,7 +15,7 @@ I will make efforts to extend this library for unsupervised learning also. Curre
 To use this librabry for now, git clone the librarby and give path to the librarby.
 
 To use standard logistic regression
-'''
+'''python
 from liquid_scikit_learn.liquid_logistic_regression import logistic_regression
 '''
 
